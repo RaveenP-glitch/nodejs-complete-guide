@@ -1,1 +1,1 @@
-E-Learning services.
+Anime vault NextJS demo app.
